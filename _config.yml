@@ -1,0 +1,8 @@
+title: e107 Content Management System (CMS)
+description: e107 Website Content Management System v2 with PHP, MySQL, HTML5, jQuery and Twitter Bootstrap. Pull-requests welcome!
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
