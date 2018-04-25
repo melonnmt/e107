@@ -1,34 +1,27 @@
-##  [Lucid Daydream TOUR][1] (MTY) 
 
-<iframe width=”400″ height=”100″ style=”position: relative; display: block; width: 400px; height: 100px;” src=”http://bandcamp.com/EmbeddedPlayer/v=2/album=2386594114/size=venti/bgcol=FFFFFF/linkcol=4a4a4a/” allowtransparency=”true” frameborder=”0″><a href=”http://music.simonlittlebass.com/album/the-knowledge-of-things-to-come”>The Knowledge of Things To Come by Simon Little</a></iframe>  
-For a stable release please see [www.e107.org][2] 
+ __ __ __  __ __    __  __  ___  ____  ____     ____    __   _  _  ____  ____  ____    __    __  __    ____  _____  __  __  ____ __  __ __ __ 
+|  /  )  ||  (  )  (  )(  )/ __)(_  _)(  _ \   (  _ \  /__\ ( \/ )(  _ \(  _ \( ___)  /__\  (  \/  )  (_  _)(  _  )(  )(  )(  _ \  ||  /  )  |
+|   )(   ||   )(__  )(__)(( (__  _)(_  )(_) )   )(_) )/(__)\ \  /  )(_) ))   / )__)  /(__)\  )    (     )(   )(_)(  )(__)(  )   /  ||   )(   |
+|__(__)__||__(____)(______)\___)(____)(____/   (____/(__)(__)(__) (____/(_)\_)(____)(__)(__)(_/\/\_)   (__) (_____)(______)(_)\_)__||__(__)__|
+      ___          ___          ___                    ___          ___                                                             ___          ___          ___                       ___          ___                   ___          ___                                                      ___     
+     /\  \        /\  \        /\__\                  /\__\        /\  \                                      ___                  /\__\        /\  \        /\  \                     /\__\        /\__\                 /\__\        /\  \                  ___                    ___        /\  \    
+    |::\  \       \:\  \      /:/ _/_      ___       /:/  /       /::\  \                 ___                /\  \      ___       /:/ _/_       \:\  \      /::\  \                   /:/ _/_      /:/ _/_               /:/ _/_       \:\  \                /\  \      ___         /\  \      /::\  \   
+    |:|:\  \       \:\  \    /:/ /\  \    /\__\     /:/  /       /:/\:\  \               /|  |               \:\  \    /\__\     /:/ /\  \       \:\  \    /:/\:\  \                 /:/ /\__\    /:/ /\  \             /:/ /\__\       \:\  \               \:\  \    /\__\        \:\  \    /:/\:\  \  
+  __|:|\:\  \  ___  \:\  \  /:/ /::\  \  /:/__/    /:/  /  ___  /:/ /::\  \             |:|  |                \:\  \  /:/__/    /:/ /::\  \  ___  \:\  \  /:/ /::\  \  ___     ___  /:/ /:/ _/_  /:/ /::\  \           /:/ /:/ _/_  _____\:\  \               \:\  \  /:/__/         \:\  \  /:/  \:\  \ 
+ /::::|_\:\__\/\  \  \:\__\/:/_/:/\:\__\/::\  \   /:/__/  /\__\/:/_/:/\:\__\            |:|  |            ___  \:\__\/::\  \   /:/_/:/\:\__\/\  \  \:\__\/:/_/:/\:\__\/\  \   /\__\/:/_/:/ /\__\/:/_/:/\:\__\         /:/_/:/ /\__\/::::::::\__\          ___  \:\__\/::\  \     ___  \:\__\/:/__/ \:\__\
+ \:\~~\  \/__/\:\  \ /:/  /\:\/:/ /:/  /\/\:\  \__\:\  \ /:/  /\:\/:/  \/__/          __|:|__|           /\  \ |:|  |\/\:\  \__\:\/:/ /:/  /\:\  \ /:/  /\:\/:/  \/__/\:\  \ /:/  /\:\/:/ /:/  /\:\/:/ /:/  /         \:\/:/ /:/  /\:\~~\~~\/__/         /\  \ |:|  |\/\:\  \__ /\  \ |:|  |\:\  \ /:/  /
+  \:\  \       \:\  /:/  /  \::/ /:/  /  ~~\:\/\__\\:\  /:/  /  \::/__/              /::::\  \           \:\  \|:|  | ~~\:\/\__\\::/ /:/  /  \:\  /:/  /  \::/__/      \:\  /:/  /  \::/_/:/  /  \::/ /:/  /           \::/_/:/  /  \:\  \               \:\  \|:|  | ~~\:\/\__\\:\  \|:|  | \:\  /:/  / 
+   \:\  \       \:\/:/  /    \/_/:/  /      \::/  / \:\/:/  /    \:\  \              ~~~~\:\  \           \:\__|:|__|    \::/  / \/_/:/  /    \:\/:/  /    \:\  \       \:\/:/  /    \:\/:/  /    \/_/:/  /             \:\/:/  /    \:\  \               \:\__|:|__|    \::/  / \:\__|:|__|  \:\/:/  /  
+    \:\__\       \::/  /       /:/  /       /:/  /   \::/  /      \:\__\                  \:\__\           \::::/__/     /:/  /    /:/  /      \::/  /      \:\__\       \::/  /      \::/  /       /:/  /               \::/  /      \:\__\               \::::/__/     /:/  /   \::::/__/    \::/  /   
+     \/__/        \/__/        \/__/        \/__/     \/__/        \/__/                   \/__/            ~~~~         \/__/     \/__/        \/__/        \/__/        \/__/        \/__/        \/__/                 \/__/        \/__/                ~~~~         \/__/     ~~~~         \/__/    
 
+iframe src="https://open.spotify.com/embed/album/7vTqh5vR6kgd2N4YfohT3o" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+ 
+ 
+### 28 DE ABRIL 2018 / 9PM EN NODRIZA ESTUDIO 
+( Calle Mariano Matamoros 534, Centro, 64000 Monterrey, N.L. )
+Banda invitada:::Kidney Stones
 
-### What is e107?
-e107 is a free (open-source) content management system which allows you to easily manage and publish your content online. Developers can save time in building websites and powerful online applications. Users can avoid programming completely! Blogs, Websites, Intranets - e107 does it all. 
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=nodriza estudio&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><a href="https://www.embedgooglemap.net">embedgooglemap.net</a><style>.mapouter{overflow:hidden;height:500px;width:600px;}.gmap_canvas {background:none!important;height:500px;width:600px;}</style></div>
 
-### Requirements
-
-* PHP v5.3 or higher
-* MySQL 4.x or higher 
-
-### Installation
-
-* Create an empty text file in the root directory and name it *e107_config.php*
-* Point your browser to the *http://localhost/YOUR FOLDER/install_.php* (depending on your webserver setup)
-* Follow the installation wizard
-
-### Reporting Bugs
-
-Be sure you are using the most recent version prior to reporting an issue. 
-Your may report any bugs or feature requests on Github [here][3] 
-
-### Pull-Requests
-
-* Please submit 1 pull-request for each Github #issue you may work on. 
-* Make sure that only the lines you have changed actually show up in a file-comparison (diff) ie. some text-editors alter every line so this should be avoided. 
-
-
-  [1]: http://e107.org
-  [2]: http://www.e107.org
-  [3]: https://github.com/e107inc/e107/issues
+### Cooperación $50
